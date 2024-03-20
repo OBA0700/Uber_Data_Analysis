@@ -7,16 +7,16 @@ Uber, as a ride-hailing company, relies heavily on data science and analysis to 
 
 ## Objective
 The objective of this Exploratory Data Analysis is to:
--break down the data location pockets,
--identify these pockets based on the demand parameters that show up, then
--figure out how to position the supply chain in these specific areas.
+- break down the data location pockets,
+- identify these pockets based on the demand parameters that show up, then
+- figure out how to position the supply chain in these specific areas.
 
 **The Key Analysis Components:**
--Discovering the locations with the most traffic
--Uncovering the variance in the Trip Purpose and the effect on the Trip Rate
--Discovering the weekdays with the most traffic
--Uncovering the trip rate grouped by Minutes
--Uncovering the Miles travelled under each Trip Purpose grouped by the Trip Category
+- Discovering the locations with the most traffic
+- Uncovering the variance in the Trip Purpose and the effect on the Trip Rate
+- Discovering the weekdays with the most traffic
+- Uncovering the trip rate grouped by Minutes
+- Uncovering the Miles travelled under each Trip Purpose grouped by the Trip Category
 
 ## Conclusion
 The Key Analytic Metrics so far reveals the anticipating demand patterns, and placing driver partners across those hubs with the aim to plug in the demand, lower Estimated Time Arrival (ETAs) and increase overall efficiency.
